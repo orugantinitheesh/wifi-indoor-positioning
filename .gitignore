@@ -1,0 +1,14 @@
+# Raw dataset files are downloaded separately
+data/*.csv
+
+# Generated model artifacts
+models/*.joblib
+
+# Python and notebook cache files
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local environment files
+.venv/
+.env
